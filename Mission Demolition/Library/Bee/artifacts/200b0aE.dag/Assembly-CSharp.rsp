@@ -351,6 +351,10 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.8f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.8f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/__Scripts/FollowCam.cs"
+"Assets/__Scripts/Goal.cs"
+"Assets/__Scripts/MissionDemolition.cs"
+"Assets/__Scripts/Projectile.cs"
+"Assets/__Scripts/ProjectileLine.cs"
 "Assets/__Scripts/RigidbodySleep.cs"
 "Assets/__Scripts/Slingshot.cs"
 -langversion:9.0
