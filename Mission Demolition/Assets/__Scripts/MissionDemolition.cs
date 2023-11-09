@@ -49,7 +49,7 @@ public class MissionDemolition : MonoBehaviour
             Destroy(castle);
         }
 
-        // Destroy old projectiles if they exist (the method is not yet written)
+        // Destroy old projectiles if they exist 
         Projectile.DESTROY_PROJECTILES(); 
 
         // Instantiate the new castle
@@ -88,7 +88,7 @@ public class MissionDemolition : MonoBehaviour
             FollowCam.SWITCH_VIEW(FollowCam.eView.both);
 
             // Start the next level in 2 seconds
-            Invoke("NextLevel", 4f);
+            Invoke("NextLevel", 2f);
         }
     }
 
